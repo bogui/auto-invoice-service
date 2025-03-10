@@ -1,5 +1,11 @@
 # Auto-Invoice Service
 
+[![Hyper M](https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img/https://kdconsult.eu/wp-content/uploads/2020/12/kd-logo.png)](https://kdconsult.eu)
+
+[![Version Control](https://github.com/bogui/auto-invoice-service/actions/workflows/version-control.yml/badge.svg)](https://github.com/bogui/auto-invoice-service/actions/workflows/version-control.yml)
+
+---
+
 A Python microservice that automates invoice generation by processing subscription data from a Node.js backend via Redis Streams.
 
 ## Version Control Guidelines
